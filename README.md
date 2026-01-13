@@ -8,7 +8,7 @@
           <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60"/>
           <br><strong>LinkedIn</strong>
           <br><sub>Connect with me</sub>
-        </a>
+        </a> 
       </td>
       <td align="center" width="200">
         <a href="https://twitter.com/siddheshwar_dev">
